@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi, I'm Peter. 👋
 
+I'm an ML engineer currently focused on developing AI agents for production.
+ 
 <!--
 **peterkchung/peterkchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
