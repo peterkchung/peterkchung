@@ -1,6 +1,6 @@
-## Hi, I'm Peter. 👋
+## hi, i'm peter. 👋
 
-I'm a AI/ML developer working on reasoning engines and AI agents.
+ai/ml developer | building reasoning systems, intelligent automation, and agents 
  
 <!--
 **peterkchung/peterkchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
